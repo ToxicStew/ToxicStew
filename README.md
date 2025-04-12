@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ToxicStew
-- 👀 I’m interested in Linux,BASH,scripting,Python, microcontrollers,RaspberryPi, and ethical hacking.
+- 👀 I’m interested in Linux,BASH,Python, microcontrollers,RaspberryPi, privacy,security ethical hacking.
 - 📫 How to reach me ...
 
 <!---
